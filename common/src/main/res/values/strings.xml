@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Common</string>
+    <string name="unknown_error">Something went wrong</string>
+    <string name="info_not_found">Info is not found</string>
+    <string name="episodes">episodes</string>
+    <string name="char_name">Name: %1$s </string>
+    <string name="char_species">Species: %1$s </string>
+    <string name="char_status">Status: %1$s </string>
+    <string name="char_location">Location: %1$s \n%2$s </string>
 </resources>

@@ -14,8 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Red Mad Robot Test Task"
 include ':app'
-include ':feature:characters'
 include ':common'
+include ':feature:characters'
 include ':feature:description'
 include ':feature:episodes'
 include ':datasource:network'
